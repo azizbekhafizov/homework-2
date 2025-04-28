@@ -29,7 +29,7 @@ export default function Form() {
 
         <div className="form-group">
           <label htmlFor="phone">Phone</label>
-          <input type="tel" id="phone" placeholder="Enter your phone number" required />
+          <input type="number" id="phone" placeholder="Enter your phone number" required />
         </div>
 
         <button type="submit" className="submit-btn">Submit</button>
