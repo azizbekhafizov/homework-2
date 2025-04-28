@@ -5,6 +5,7 @@
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     width: 450px;
     max-width: 90%;
+    margin: 150px auto;
   }
 
   .form-container h2 {
